@@ -1,7 +1,7 @@
 ## Resonite MonkeyLoader modding group
 
-Game mods and their tooling for [Resonite][resonite], utilizing [MonkeyLoader][monkey].
-[MonkeyLoader][monkey] is a modern mod loader that utilizes [nuget][nuget] packages to distribute the mods.
+Game mods and their tooling for [Resonite][resonite], utilizing [MonkeyLoader][monkey], which is a modern mod loader that utilizes [nuget][nuget] packages to distribute mods and libraries.
+
 Get started by [checking out the docs][docs]
 
 [resonite]: https://resonite.com/
